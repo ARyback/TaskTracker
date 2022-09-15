@@ -18,6 +18,9 @@ export class TasksComponent implements OnInit {
 
   deleteTask(task: Task) {
     console.log("here we go yet again");
+<<<<<<< HEAD
     console.log("here we go yet again. practicing a merge.");
+=======
+>>>>>>> 1b168860cb960f1a2a9fc9b24b2a5c2d61fddfe9
   }
 }
